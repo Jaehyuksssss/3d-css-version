@@ -8,7 +8,7 @@ export default class CardsHandler implements Handlers {
     this.cardsWrapper = document.getElementById(
       "main-wrapper"
     ) as HTMLDivElement;
-    this.overlay = document.querySelector(".overlay") as HTMLDivElement;
+    this.overlay = document.querySelector("overlay") as HTMLDivElement;
     console.log(this.overlay);
     console.log(this.cardsWrapper);
     this.init();

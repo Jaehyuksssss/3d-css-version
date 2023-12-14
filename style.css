@@ -1,7 +1,7 @@
 #main-wrapper {
-  width: 220px;
-  height: 310px;
-  transition: all 0.3s;
+  width: 240px;
+  height: 350px;
+  transition: all 0.2s;
   position: relative;
 }
 .overlay {
